@@ -4,7 +4,7 @@ public class OOPSBannerUC4 {
 
         String[] banner = {
 
-                String.join("", " *****  ", " *****  ", " *****  ", " ***** "),
+                String.join("", " *****  ", " *****  ", " *****  ", " *****  "),
                 String.join("", "*     * ", "*     * ", "*    *  ", "*     *"),
                 String.join("", "*     * ", "*     * ", "*    *  ", "*      "),
                 String.join("", "*     * ", "*     * ", "******  ", "*******"),
